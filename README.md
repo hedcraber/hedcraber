@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hedcraber
-- 👀 I’m interested in C, C++, Python and AI
-- 🌱 I’m currently learning C++, C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and Data Science. 
+- 🌱 I’m currently learning Python and SQL.
+- 💼 Looking for a job as a data analyst or data scientist
 - 📫 You can PM me in VK
 
 <!---
